@@ -13,7 +13,7 @@ This repository contains a graduate-level coursework project focused on applying
 The project addresses water security by modeling water pH levels using sensor-based time series data. A feedforward ANN is used to perform binary classification of pH values, distinguishing between readings above neutral (>7) and neutral or below (≤7).
 
 ## Data
-The dataset consists of pH and temperature sensor readings, along with device and signal indicators, including battery level, signal strength (RSSI), and reading counters. These features reflect both water conditions and sensor reliability.
+The dataset was provided through a Virginia Tech research lab for educational use as part of graduate coursework from the ACWA Lab. The dataset consists of pH and temperature sensor readings, along with device and signal indicators, including battery level, signal strength (RSSI), and reading counters. These features reflect both water conditions and sensor reliability.
 
 ## Methodology
 A feedforward artificial neural network was implemented using the Keras Sequential API. Multiple architectures, activation functions, batch sizes, and training epochs were evaluated. Stratified k-fold cross-validation and SMOTE were used to address class imbalance, and feature scaling was applied to ensure stable training.
