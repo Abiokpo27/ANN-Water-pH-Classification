@@ -3,7 +3,7 @@ Graduate-level coursework project applying a feedforward artificial neural netwo
 
 ## View Notebook
 If GitHub does not render the notebook correctly:
-- ANN notebook (nbviewer): https://nbviewer.org/github/Abiokpo27/ANN-Coursework-Project/blob/main/BSE5124_NN_Batubo_ANN.ipynb
+- ANN notebook (nbviewer): https://nbviewer.org/github/Abiokpo27/ANN-Water-pH-Classification/blob/main/BSE5124_NN_Batubo_ANN.ipynb
 
 # ANN for Water pH Classification
 
